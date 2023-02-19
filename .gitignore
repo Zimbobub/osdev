@@ -1,3 +1,4 @@
+.gitignore
 /build
 bx_enh_dbg.ini
 bochs_config
