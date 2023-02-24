@@ -1,0 +1,4 @@
+stdio.c(211): Warning! E1181: Parameter 4, sign specifier mismatch
+stdio.c(211): Note! I2003: source conversion type is 'long *'
+stdio.c(211): Note! I2004: target conversion type is 'unsigned long *'
+stdio.c(211): Note! I2002: 'x86_div64_32' defined in: x86.h(4)
